@@ -4,9 +4,7 @@
 ## **About me:**
 <h3 align="left">I'm Mechanical Engineer from Federal University of Maranhão and P.h.D candidate at University of Campinas. I work with numerical formulation and implementation of predictive models for elastic-acoustic metamaterials and phononic crystals. I'm also a data scientist and machine learning engineer applicant. In my free time I work developing machine learning projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goto-95&label=Profile%20views&color=0e75b6&style=flat" alt="goto-95" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goto-95" alt="goto-95" /></a> </p>
+## **Some informations:**
 
 - 🔭 I’m currently working on [Vibroacoustic laboratory](https://www.fem.unicamp.br/index.php/pt-br/lva-home)
 
