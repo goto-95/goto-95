@@ -2,13 +2,15 @@
 <h3 align="center">A passionate researcher and data scientist from Brazil.</h3>
 
 ## **About me:**
-<h3 align="left">I'm Mechanical Engineer from Federal University of Maranhão and P.h.D candidate at University of Campinas. I work with numerical formulation and implementation of predictive models for elastic-acoustic metamaterials and phononic crystals. I'm also a data scientist and machine learning engineer applicant. In my free time I work developing machine learning projects.</h3>
+<h3 align="left">I'm Mechanical Engineer from Federal University of Maranhão and P.h.D candidate at University of Campinas. I work with numerical formulation and implementation of predictive models for elastic-acoustic metamaterials and phononic crystals. I'm also a data scientist at Bosch Brazil. In my free time I work developing machine learning projects.</h3>
 
 ## **Some informations:**
 
-- 🔭 I’m currently working on [Vibroacoustic laboratory](https://www.fem.unicamp.br/index.php/pt-br/lva-home)
+- 🔬 I’m currently P.h.D candidate at [Vibroacoustic laboratory](https://www.fem.unicamp.br/index.php/pt-br/lva-home)
 
-- 🌱 I’m currently learning **Data science, machine learning, deep learning and SQL**
+- 💼 I'm Data Scientist at [Bosch](https://www.bosch.com.br/). I'm working at [Trucks telemetry from Bosch](https://www.bosch.com.br/produtos-e-servicos/mobilidade/telemetria-bosch-para-caminhoes/?utm_source=google&utm_medium=texto%203&utm_campaign=pesquisa&utm_content=ad3&gclid=Cj0KCQjwtsCgBhDEARIsAE7RYh3jwu1LXf8zGyAtPMHOzTHSHCvjjov54LfkXylkiy4X3xMnu1dxjzwaAsX8EALw_wcB) project.
+
+- 🌱 I’m currently learning **Spark and Databricks**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
